@@ -1,0 +1,40 @@
+/*
+  Localizable.strings
+  Domicil
+
+  Created by Никита Гусев on 09.04.2022.
+  
+*/
+
+// MARK: Tab bar
+"TabBarItem.Search.Title" = "Поиск";
+"TabBarItem.Favorites.Title" = "Избранное";
+
+// MARK: - Filters
+"Filters.NavigationBar.Title" = "Фильтры";
+"Filters.Headers.Transaction" = "Тип сделки";
+"Filters.Headers.Accommodation" = "Тип жилья";
+"Filters.Headers.Rooms" = "Количество комнат";
+"Filters.Headers.TotalArea" = "Общая площадь";
+"Filters.Headers.Floor" = "Этаж";
+"Filters.Headers.Price" = "Цена";
+"Filters.Range.From" = "От";
+"Filters.Range.To" = "До";
+"Filters.Transaction.Sell" = "Продажа";
+"Filters.Transaction.Rent" = "Аренда";
+"Filters.Accommodation.Apartment" = "Квартира";
+"Filters.Accommodation.Room" = "Комната";
+"Filters.Accommodation.House" = "Дом";
+"Filters.Room.One" = "1";
+"Filters.Room.Two" = "2";
+"Filters.Room.Three" = "3";
+"Filters.Room.Four" = "4";
+"Filters.Room.FivePlus" = "5+";
+"Filters.ConfirmButton.Title" = "Применить";
+"Filters.TextField.Placeholder.SquareMeter" = "м²";
+"Filters.TextField.Placeholder.Ruble" = "₽";
+
+// MARK: - Ad List - Cell
+"AdList.NavigationBar.Title" = "Поиск";
+"AdList.Search.Placeholder" = "Пожалуйста, выберите подходящие фильтры для того, чтобы просмотреть объявления";
+"AdList.Favorites.Placeholder" = "У вас нет избранных объявлений";

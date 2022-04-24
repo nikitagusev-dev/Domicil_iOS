@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BonMot",
+        "repositoryURL": "https://github.com/Rightpoint/BonMot",
+        "state": {
+          "branch": null,
+          "revision": "69dd5eba11694421418edc9063f3c7c02d069634",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "b4307ba0b6425c0ba4178e138799946c3da594f8",
+          "version": "6.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
